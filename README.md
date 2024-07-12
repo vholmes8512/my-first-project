@@ -1,4 +1,4 @@
-# My-First-Terraform-Project: Terraform Configuration for AWS VPC with Public and Private Subnets
+# My First Terraform Project: Terraform Configuration for AWS VPC with Public and Private Subnets
 
 I wanted to demonstrate my learning on Terraform by creating a Terraform configuration that sets up an AWS Virtual Private Cloud (VPC) with three public subnets, three private subnets, an Internet Gateway, and a NAT Gateway. The configuration also includes route tables and associations to ensure proper routing for both public and private subnets. I will use steps below to complete and test my terraform congfiguration:
 
